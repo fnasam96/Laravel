@@ -1,3 +1,3 @@
 # Laravel
-tutorial|information 2020
-Further studies about laravel 
+tutorial | information 2020
+further studies about laravel 
